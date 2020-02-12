@@ -19,3 +19,4 @@ until [[ "$bootanim" =~ "stopped" ]]; do
    sleep 1
 done
 echo "Done"
+my name is rs
